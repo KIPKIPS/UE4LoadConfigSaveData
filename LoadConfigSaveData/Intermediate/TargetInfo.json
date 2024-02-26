@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LoadConfigSaveData",
+			"Path": "D:\\GitHub\\UE4LoadConfigSaveData\\LoadConfigSaveData\\Source\\LoadConfigSaveData.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LoadConfigSaveDataEditor",
+			"Path": "D:\\GitHub\\UE4LoadConfigSaveData\\LoadConfigSaveData\\Source\\LoadConfigSaveDataEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

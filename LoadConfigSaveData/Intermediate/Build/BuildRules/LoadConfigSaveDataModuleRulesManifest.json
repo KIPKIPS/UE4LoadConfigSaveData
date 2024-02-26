@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\UE4LoadConfigSaveData\\LoadConfigSaveData\\Source\\LoadConfigSaveData\\LoadConfigSaveData.Build.cs",
+		"D:\\GitHub\\UE4LoadConfigSaveData\\LoadConfigSaveData\\Source\\LoadConfigSaveData.Target.cs",
+		"D:\\GitHub\\UE4LoadConfigSaveData\\LoadConfigSaveData\\Source\\LoadConfigSaveDataEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

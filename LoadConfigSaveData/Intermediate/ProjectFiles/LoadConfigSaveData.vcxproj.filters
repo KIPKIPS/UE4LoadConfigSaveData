@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LoadConfigSaveData.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{00F0AC28-3294-437C-91EB-21866E854E15}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LoadConfigSaveData.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LoadConfigSaveDataEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{473ABFF8-9EF4-4D58-A3D3-1DC0B1973BEF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LoadConfigSaveData">
+      <UniqueIdentifier>{D11CFF49-4CC4-4EF8-9BE4-E06321B006E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LoadConfigSaveData\LoadConfigSaveData.Build.cs">
+      <Filter>Source\LoadConfigSaveData</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LoadConfigSaveData\LoadConfigSaveData.cpp">
+      <Filter>Source\LoadConfigSaveData</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LoadConfigSaveData\LoadConfigSaveData.h">
+      <Filter>Source\LoadConfigSaveData</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LoadConfigSaveData\LoadConfigSaveDataGameModeBase.cpp">
+      <Filter>Source\LoadConfigSaveData</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LoadConfigSaveData\LoadConfigSaveDataGameModeBase.h">
+      <Filter>Source\LoadConfigSaveData</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
