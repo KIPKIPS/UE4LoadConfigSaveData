@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LoadConfigSaveData.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\UE4LoadConfigSaveData\LoadConfigSaveData\Intermediate\Build\Win64\LoadConfigSaveDataEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\UE4LoadConfigSaveData\LoadConfigSaveData\Intermediate\Build\Win64\UE4Editor\Development\LoadConfigSaveData\LoadConfigSaveData.cpp.obj"
+"D:\GitHub\UE4LoadConfigSaveData\LoadConfigSaveData\Intermediate\Build\Win64\UE4Editor\Development\LoadConfigSaveData\LoadConfigSaveDataGameModeBase.cpp.obj"
+"D:\GitHub\UE4LoadConfigSaveData\LoadConfigSaveData\Intermediate\Build\Win64\UE4Editor\Development\LoadConfigSaveData\LoadConfigSaveData.init.gen.cpp.obj"
+"D:\GitHub\UE4LoadConfigSaveData\LoadConfigSaveData\Intermediate\Build\Win64\UE4Editor\Development\LoadConfigSaveData\LoadConfigSaveDataGameModeBase.gen.cpp.obj"
+"D:\GitHub\UE4LoadConfigSaveData\LoadConfigSaveData\Intermediate\Build\Win64\UE4Editor\Development\LoadConfigSaveData\Default.rc2.res"
+/OUT:"D:\GitHub\UE4LoadConfigSaveData\LoadConfigSaveData\Intermediate\Build\Win64\UE4Editor\Development\LoadConfigSaveData\UE4Editor-LoadConfigSaveData.lib"
